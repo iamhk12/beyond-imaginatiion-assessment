@@ -120,7 +120,7 @@ export default function Dashboard() {
                     <span className="font-medium">
                       {data.key_performance_indicators.employment_type.full_time.count}
                     </span>
-                  </div> %
+                  </div> 
                   <div>
                     Part Time :{" "}
                     <span className="font-medium">
